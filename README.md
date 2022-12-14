@@ -82,10 +82,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magydream&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=magydream&&style=flat-square" align="center" />
 </div>  
-
-<br />
